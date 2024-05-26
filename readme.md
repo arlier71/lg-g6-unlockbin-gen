@@ -5,8 +5,8 @@ Use this utility to check if you have a valid unlock.bin for your LG G6 (may als
 After compiling, run it in with your terminal: java -jar lg-bf.jar
 
 ```
-Imei: 356144087429995
-DeviceId: 662CDCF3D09A5AED38E08DB652EC4CC6F63B24DADB2332BC0C7CD30A9924D731
+Imei: 356144084428859
+DeviceId: DBEF9C5B33E8DE4F9930D164DECD6A62F1C5C49955D3DCB310DB5303B730209A
 OutputFile: ~/git/lg-g6-unlockbin-gen/sample/unlock.bin
 Sun Oct 29 08:00:08 CET 2023 - File exists and length matches!
 Sun Oct 29 08:00:08 CET 2023 - Magic numbers found and correct!
